@@ -45,11 +45,21 @@ XXD Panel 033는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **통합 표지 타이포그래피:** 제목과 부제가 크기, 쌓기, 가로지르기, 겹침과 음형으로 화면에 참여합니다.
 - **썸네일 위계:** 주체, 제목, 보조층 순서로 읽히며 초점은 하나입니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 033 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
 
-향후 예시는 033의 적용 범위만 보여 줍니다. 예시의 주제, 여백 비율, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 033의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 에디토리얼 표지 시스템
 

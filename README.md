@@ -45,11 +45,21 @@ XXD Panel 033 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **封面排版一体化：** 主标题与副标题通过尺度、堆叠、跨越、叠压和负空间进入画面。
 - **缩略图层级清楚：** 先读主体，再读标题，最后读辅助层；所有画幅都只有一个焦点。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 033 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
 
-未来样张只用于展示 033 对不同题材的适应力，不会把样张主体、留白比例、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 033 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一套编辑封面系统
 
