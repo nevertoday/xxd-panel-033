@@ -22,6 +22,22 @@ XXD Panel 033 is an image-generation Skill for Codex and compatible agents. It r
 
 Background motif, middle subject, and foreground accent carry distinct roles and scales. Bold native typography crosses, stacks, overlaps, or occupies whitespace as part of the picture, while source-derived colour remains vivid, disciplined, and materially alive.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 033 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Magazine style” easily collapses into a stock masthead, random stickers, template typography, and fashionable colours that no longer belong to the photograph.
@@ -44,22 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Tactile print life:** selective grain, halftone, grid, fabric, spray, transfer, dry brush, or register shift enriches flat colour without muddying it.
 - **Integrated cover typography:** native title and subtitle participate through scale, stacking, crossing, overlap, and negative space.
 - **Clear thumbnail reading:** subject first, cover type second, supporting layers third; one focal point survives every output ratio.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
-> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 033 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

@@ -22,6 +22,22 @@ XXD Panel 033 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 背景母题、中层主体和前景点睛各有明确尺度与职责。目标语言文字通过大字号、纵向堆叠、跨色块、遮挡与主动留白参与构图；鲜明配色全部从源图提炼，并以面积、明度与深色压重保持高级感。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 033 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 033
 
 普通“杂志风”很容易退化成现成刊头、随机贴纸、模板排版，以及与照片本身没有关系的流行配色。
@@ -44,22 +60,6 @@ XXD Panel 033 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **印刷触感：** 颗粒、网点、网格、布纹、喷墨、拓印、干刷或套印错位选择性出现，不把画面做脏。
 - **封面排版一体化：** 主标题与副标题通过尺度、堆叠、跨越、叠压和负空间进入画面。
 - **缩略图层级清楚：** 先读主体，再读标题，最后读辅助层；所有画幅都只有一个焦点。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
-> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 033 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

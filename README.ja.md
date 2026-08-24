@@ -22,6 +22,22 @@ XXD Panel 033 は、Codex と互換 Agent のための画像生成 Skill です�
 
 背景モチーフ、中景の主体、前景のアクセントには異なる役割と尺度があります。対象言語の大胆な文字は、横断、縦積み、重なり、遮蔽、余白への配置によって画面の一部となり、鮮やかな色は元写真から抽出して面積と明度で制御します。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 033 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 033 が必要なのか
 
 一般的な「雑誌風」は、既製マストヘッド、無関係なステッカー、テンプレート組版、元写真と関係のない流行色へ崩れがちです。
@@ -44,22 +60,6 @@ XXD Panel 033 は、Codex と互換 Agent のための画像生成 Skill です�
 - **印刷の触感：** 粒子、網点、グリッド、布、スプレー、転写、ドライブラシ、版ズレを選択的に使います。
 - **一体化したカバー文字：** 主題と副題が尺度、積層、横断、重なり、負形を通じて画面に参加します。
 - **縮小時の階層：** 主体、題字、補助層の順に読み、一つの焦点を保ちます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
-> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 033 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

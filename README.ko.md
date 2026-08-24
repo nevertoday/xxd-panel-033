@@ -22,6 +22,22 @@ XXD Panel 033는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 배경 모티프, 중간 주체, 전경 포인트는 서로 다른 역할과 크기를 갖습니다. 대상 언어의 대담한 글자는 가로지르기, 세로 쌓기, 겹침, 가림, 여백 배치로 화면에 참여하며, 선명한 색은 원본에서 추출해 면적과 명도로 절제합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 033의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 033이 필요한가요
 
 일반적인 ‘잡지 스타일’은 기성 제호, 무관한 스티커, 템플릿 타이포그래피, 원본과 관계없는 유행 색으로 쉽게 무너집니다.
@@ -44,22 +60,6 @@ XXD Panel 033는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **인쇄 촉감:** 입자, 망점, 격자, 직물, 스프레이, 전사, 마른 붓, 판 어긋남을 선택적으로 사용합니다.
 - **통합 표지 타이포그래피:** 제목과 부제가 크기, 쌓기, 가로지르기, 겹침과 음형으로 화면에 참여합니다.
 - **썸네일 위계:** 주체, 제목, 보조층 순서로 읽히며 초점은 하나입니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
-> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 033 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 033 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 033의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
