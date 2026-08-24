@@ -1,5 +1,13 @@
 # XXD Panel 033 | Modern Editorial-Cover Collage Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, contour, proportion, pose, direction, action, material, environment structure, negative shapes, and colour character. Preserve at least three source-specific recognition cues. Never borrow motifs, palettes, copy, textures, or layouts from old outputs, samples, or another input.
 
 ## Reduce the source into one recognisable motif
@@ -26,7 +34,6 @@ Preserve exact user wording verbatim. Add only genuinely useful supporting copy.
 
 ## Mode and acceptance
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose every wallpaper for its device, never crop another device result, and render no system UI or mockup. A linked pack always references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: at least three source cues; one recognisable source-derived motif; distinct background, middle, and foreground roles; one decisive scale contrast and clear focal point; repetition and crop tied to the source; vivid disciplined source palette; selective tactile print texture; integrated native cover typography; exact user wording; no invented metadata; no template forest, travel ad, e-commerce layout, cartoon, scrapbook clutter, grey mud, smooth 3D, photo fragment, mockup, or pseudo-text.
 
