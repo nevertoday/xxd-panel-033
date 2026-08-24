@@ -1,4 +1,4 @@
 interface:
-  display_name: "XXD Panel 033"
+  display_name: "/xxd-panel-033"
   short_description: "Create vivid source-derived editorial cover collages."
   default_prompt: "Use $xxd-panel-033 to reinterpret my photograph as a modern magazine-cover collage with one recognisable motif, layered repetition and scale contrast, source-derived vivid colour, tactile print texture, and integrated native-language cover typography; ask first for modes and copy or locale preferences."
