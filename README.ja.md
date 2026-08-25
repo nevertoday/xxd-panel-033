@@ -38,6 +38,12 @@ XXD Panel 033 は、Codex と互換 Agent のための画像生成 Skill です�
 
 背景モチーフ、中景の主体、前景のアクセントには異なる役割と尺度があります。対象言語の大胆な文字は、横断、縦積み、重なり、遮蔽、余白への配置によって画面の一部となり、鮮やかな色は元写真から抽出して面積と明度で制御します。
 
+## 原始プロンプト · 5言語
+
+[統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+簡体字中国語ファイルは小小東の文言を逐語で保存し、実行時の唯一の美的基準です。他の4言語は海外の読者が読み、共有するための忠実な翻訳であり、画像生成プロンプトを書き換えません。
+
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 033 はあなたに合う？
 
@@ -74,7 +80,7 @@ XXD Panel 033 は、Codex と互換 Agent のための画像生成 Skill です�
 
 ## 原文プロンプトを唯一の美的基準にする
 
-`references/033-source.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
+`references/original-prompt/zh-CN.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
 
 モードとサイズは、原文の変換美学を変えずに、旧来の 3:4 上下出力コンテナを完全に置き換えます。各成果物では選択された一つのモード契約だけを GPT Image 2 に送り、四つの候補を一つの汎用テンプレート内で解釈させません。
 
@@ -221,7 +227,7 @@ $xxd-panel-033
 - [Skill ワークフロー](SKILL.md)
 - [中国語ランタイムアダプター](references/xxd-panel-033-prompt.zh-CN.md)
 - [英語ランタイムアダプター](references/xxd-panel-033-prompt.en.md)
-- [元のスタイル指示](references/033-source.md)
+- [元のスタイル指示](references/original-prompt/zh-CN.md)
 
 ## 境界と信頼性
 
