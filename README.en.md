@@ -16,16 +16,7 @@
 
 </div>
 
-> RECOGNISABLE MOTIF · LAYERED COLLAGE · SCALE CONTRAST · VIVID SOURCE COLOUR · COVER TYPE
-
-XXD Panel 033 is an image-generation Skill for Codex and compatible agents. It reduces the photograph's defining subject, contour, pose, environment fragment, or narrative relation into one recognisable motif, then builds a modern editorial-cover field through repetition, enlargement, crop, overlap, flat colour, and tactile print texture.
-
-Background motif, middle subject, and foreground accent carry distinct roles and scales. Bold native typography crosses, stacks, overlaps, or occupies whitespace as part of the picture, while source-derived colour remains vivid, disciplined, and materially alive.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
-> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
 
 <table>
   <tr>
@@ -34,9 +25,18 @@ Background motif, middle subject, and foreground accent carry distinct roles and
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090714362709434623) · 2026-08-21<br>
+> GPT2 x 喷墨 x 干刷 x 海报 x 美学提示词 x VOL.033
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090714362709434623">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 033 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> RECOGNISABLE MOTIF · LAYERED COLLAGE · SCALE CONTRAST · VIVID SOURCE COLOUR · COVER TYPE
+
+XXD Panel 033 is an image-generation Skill for Codex and compatible agents. It reduces the photograph's defining subject, contour, pose, environment fragment, or narrative relation into one recognisable motif, then builds a modern editorial-cover field through repetition, enlargement, crop, overlap, flat colour, and tactile print texture.
+
+Background motif, middle subject, and foreground accent carry distinct roles and scales. Bold native typography crosses, stacks, overlaps, or occupies whitespace as part of the picture, while source-derived colour remains vivid, disciplined, and materially alive.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 033 right for you?
