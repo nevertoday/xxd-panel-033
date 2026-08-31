@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 033
+# 🦁 XXD Panel 033｜선명한 콜라주 저널
 
 ### 한 장의 사진을 선명하고 다층적인 현대 잡지 표지 콜라주로
 

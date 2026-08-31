@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 033
+# 🦁 XXD Panel 033｜鲜彩拼贴志
 
 ### 把一张照片变成鲜明、浓郁、层次清楚的现代杂志封面拼贴
 

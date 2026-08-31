@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 033
+# 🦁 XXD Panel 033｜Vivid Collage Journal
 
 ### Turn one photograph into a vivid, layered modern magazine-cover collage
 
