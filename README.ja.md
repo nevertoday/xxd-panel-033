@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="XXD Panel 033 プロジェクトバナー" width="1200">
-</p>
-
 <div align="center">
 
 # 🦁 XXD Panel 033｜鮮やかコラージュ手帳
@@ -316,7 +312,6 @@ xxd-panel-033/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/（今後のローカル作例用）
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-033-prompt.zh-CN.md + xxd-panel-033-prompt.en.md + 033-source.md
 ```
