@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 033｜Vivid Collage Journal: turns the photo's subject into a bold modern magazine-cover collage — the main motif simplified into flat graphic shapes that are repeated, enlarged, cropped and layered into background, middle and foreground, in saturated colours taken from the photo with visible grain, grid, cloth, spray and dry-brush print textures. A large cover headline, a subtitle and small issue numbers, dates or tags cross, stack over and overlap the image. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-033 or asks for a magazine-cover collage, editorial cut-paper poster or vivid layered print look from a photo.",
+  "short_description": "鲜彩拼贴志：把照片做成鲜明浓郁、层次分明、大字排版的现代杂志封面拼贴",
+  "zh-CN": {
+    "name": "鲜彩拼贴志",
+    "tagline": "把一张照片变成鲜明、浓郁、层次清楚的现代杂志封面拼贴。",
+    "look": "照片主体被概括成鲜明的平面图形，它的轮廓和局部被重复、放大、裁切、层叠，铺成背景、中景和前景三层，有时再加一个小而对比强烈的点睛元素。颜色从照片里取最有生气的几种，变得更饱和、更集中，表面带颗粒、网格、布纹、喷墨、拓印和干刷的印刷质感。文字像真的杂志封面：一个超大主标题加副标题，配编号、期号、地点或标签，横穿、竖叠、压在图形上或嵌进留白。",
+    "traits": ["平面拼贴", "尺度对比", "鲜明配色", "封面排版", "杂志"],
+    "good": [
+      "主体有鲜明形状、能被重复放大的照片：一个人的侧影、一朵花、一只鸟、一栋楼",
+      "颜色本身就有生气的场景：花市、海边、水果摊、秋天的树",
+      "想做成杂志封面、活动海报或专题头图的照片"
+    ],
+    "poor": [
+      "需要写实还原的图：证件照、产品细节图、说明图",
+      "整体灰暗、颜色很少的照片，会失去这套风格的浓郁色彩",
+      "想要安静留白、写实摄影、光滑 3D 或卡通插画的效果"
+    ]
+  },
+  "en": {
+    "name": "Vivid Collage Journal",
+    "tagline": "Turns one photo into a vivid, richly coloured, clearly layered modern magazine-cover collage.",
+    "look": "The subject is simplified into bold flat shapes; its outline and details are repeated, enlarged, cropped and layered into background, middle and foreground, sometimes with one small high-contrast accent. The liveliest colours in the photo become a tighter, more saturated set, with grain, grid, cloth, spray, rubbing and dry-brush print textures on the surface. Type works like a real magazine cover: one oversized headline and a subtitle, with numbers, issue marks, places or tags running across, stacked down, overlapping the shapes or set into open space.",
+    "traits": ["Flat collage", "Scale contrast", "Vivid palette", "Cover typography", "Magazine"],
+    "good": [
+      "Photos with a strong shape that can be repeated and enlarged: a profile, a flower, a bird, a building",
+      "Scenes that are already full of colour: a flower market, the seaside, a fruit stall, autumn trees",
+      "Photos you want as a magazine cover, event poster or feature header"
+    ],
+    "poor": [
+      "Images that must stay realistic: ID photos, product detail shots, instructional images",
+      "Grey, low-colour photos, which lose the rich palette this style depends on",
+      "Requests for quiet whitespace, realistic photography, glossy 3D or cartoon illustration"
+    ]
+  },
+  "ja": {
+    "name": "鮮やかコラージュ手帳",
+    "tagline": "一枚の写真を、鮮やかで濃密、層のはっきりした現代の雑誌カバー・コラージュにします。",
+    "look": "主役をくっきりした平面の図形にまとめ、その輪郭や部分を繰り返し、拡大し、切り取り、重ねて、背景・中景・前景の三層をつくります。小さくコントラストの強いアクセントを一つ加えることもあります。色は写真のいちばん生き生きした色を選び、より濃く凝縮させ、表面には粒子、網目、布目、スプレー、拓本、ドライブラシの印刷質感が残ります。文字は本物の雑誌の表紙のように、特大のメインタイトルとサブタイトルに番号、号数、地名、タグを添え、横切り、縦に積み、図形に重ね、余白に収めます。",
+    "traits": ["平面コラージュ", "スケールの対比", "鮮やかな配色", "表紙の組版", "雑誌"],
+    "good": [
+      "繰り返しや拡大がきく、はっきりした形の主役：横顔、一輪の花、鳥、建物",
+      "もともと色に勢いのある場面：花市場、海辺、果物の屋台、秋の木々",
+      "雑誌の表紙、イベントポスター、特集のヘッダーにしたい写真"
+    ],
+    "poor": [
+      "写実的な再現が必要な画像：証明写真、商品の細部写真、説明図",
+      "全体が灰色っぽく色数の少ない写真（このスタイルの濃い色が出ません）",
+      "静かな余白、写実写真、つるっとした 3D、キャラクター風イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "선명한 콜라주 저널",
+    "tagline": "한 장의 사진을 선명하고 진하며 층이 분명한 현대 잡지 표지 콜라주로 바꿉니다.",
+    "look": "주인공을 뚜렷한 평면 도형으로 정리하고, 그 윤곽과 부분을 반복하고 확대하고 자르고 겹쳐 배경, 중경, 전경의 세 층을 만듭니다. 작고 대비가 강한 포인트 요소를 하나 더하기도 합니다. 색은 사진에서 가장 생기 있는 색을 골라 더 진하고 응축된 조합으로 바꾸고, 표면에는 입자, 망점, 천 결, 스프레이, 탁본, 드라이 브러시 같은 인쇄 질감을 남깁니다. 글자는 진짜 잡지 표지처럼 아주 큰 제목과 부제에 번호, 호수, 장소, 태그를 곁들여 가로지르고 세로로 쌓고 도형 위에 겹치거나 여백에 넣습니다.",
+    "traits": ["평면 콜라주", "크기 대비", "선명한 배색", "표지 타이포그래피", "잡지"],
+    "good": [
+      "반복하고 키울 수 있는 뚜렷한 형태의 주인공: 옆얼굴, 꽃 한 송이, 새, 건물",
+      "원래 색이 생기 있는 장면: 꽃시장, 바닷가, 과일 가게, 가을 나무",
+      "잡지 표지, 행사 포스터, 특집 머리 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적으로 재현해야 하는 이미지: 증명사진, 제품 디테일 사진, 설명용 이미지",
+      "전체가 회색빛이고 색이 적은 사진(이 스타일의 진한 색감이 살지 않습니다)",
+      "조용한 여백, 사실적인 사진, 매끈한 3D, 캐릭터 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الكولاج الزاهي",
+    "tagline": "يحوّل صورة واحدة إلى كولاج غلاف مجلة حديث، زاهٍ ومشبع الألوان وواضح الطبقات.",
+    "look": "يُبسَّط الموضوع إلى أشكال مسطحة واضحة، ويُكرَّر خطه الخارجي وتفاصيله وتُكبَّر وتُقص وتتراكب في ثلاث طبقات: خلفية ووسط ومقدمة، وقد تُضاف لمسة صغيرة شديدة التباين. تُختار أكثر ألوان الصورة حيوية وتصبح مجموعة أكثف وأشد تشبعاً، مع ملمس طباعي من حبيبات وشبكات ونسيج ورذاذ حبر وطبع بالفرك وفرشاة جافة. الكتابة تعمل كغلاف مجلة حقيقي: عنوان ضخم وعنوان فرعي، مع أرقام وأعداد وأماكن ووسوم تعبر الصورة أو تتكدس عمودياً أو تتراكب فوق الأشكال أو تستقر في الفراغ.",
+    "traits": ["كولاج مسطح", "تباين الأحجام", "ألوان زاهية", "تنضيد الغلاف", "مجلة"],
+    "good": [
+      "صور فيها شكل قوي يمكن تكراره وتكبيره: وجه جانبي، زهرة، طائر، مبنى",
+      "مشاهد مليئة بالألوان أصلاً: سوق زهور، شاطئ، كشك فاكهة، أشجار الخريف",
+      "صور تريدها غلاف مجلة أو ملصق فعالية أو صورة رأسية لملف خاص"
+    ],
+    "poor": [
+      "صور يجب أن تبقى واقعية: صور الهوية، لقطات تفاصيل المنتجات، الصور التوضيحية",
+      "صور رمادية قليلة الألوان، تفقد الألوان الكثيفة التي يقوم عليها هذا الأسلوب",
+      "طلب فراغ هادئ أو تصوير واقعي أو مجسمات ثلاثية الأبعاد لامعة أو رسوم كرتونية"
+    ]
+  }
+}
